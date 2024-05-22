@@ -1,1 +1,1 @@
-[![JPA-VS-JDBC.png](https://i.postimg.cc/zvsR5dZc/JPA-VS-JDBC.png)](https://postimg.cc/4H13QQ36)
+[![JPA-VS-JDBC-1.png](https://i.postimg.cc/fWKhS8Hc/JPA-VS-JDBC-1.png)](https://postimg.cc/PNP7BQnJ)
